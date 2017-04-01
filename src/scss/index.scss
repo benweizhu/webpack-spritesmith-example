@@ -1,0 +1,5 @@
+@import '../spritesmith-generated/sprite';
+
+.create-button {
+  @include sprite($create);
+}
