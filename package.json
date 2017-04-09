@@ -5,6 +5,9 @@
   "repository": "git@github.com:benweizhu/webpack-spritesmith-example.git",
   "author": "benweizhu <benweizhu@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "css-loader": "^0.28.0",

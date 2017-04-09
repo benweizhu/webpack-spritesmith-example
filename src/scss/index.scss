@@ -1,5 +1,14 @@
 @import '../spritesmith-generated/sprite';
 
-.create-button {
-  @include sprite($create);
+.biscuit {
+  @include sprite($biscuit);
+}
+.cake {
+  @include sprite($cake);
+}
+.soda {
+  @include sprite($soda);
+}
+.tea {
+  @include sprite($tea);
 }
